@@ -1,0 +1,2 @@
+# hi
+Coding is fun
